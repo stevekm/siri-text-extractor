@@ -2,6 +2,8 @@
 
 macOS script to extract text from image files and save it to a .txt file adjacent to the image, with a log of the original image file path saved in the text file.
 
+So that you can easily do text search on your image files via `grep` or via macOS Spotlight.
+
 # Usage
 
 Import the file `ExtractText.shortcut` into your macOS Shortcuts.app.
