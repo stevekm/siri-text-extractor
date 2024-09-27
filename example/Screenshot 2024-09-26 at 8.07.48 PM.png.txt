@@ -1,0 +1,34 @@
+micro
+1 #!/bin/bash
+2
+#
+for i in *; do shortcuts run ExtractText --input-path "${i}" --output-path "${i}.txt"; done
+4
+5
+find.
+-type f \C-iname
+"*.png" -o -iname "*.jpg" -iname
+"*gif"
+-o -iname
+6 outputFile="${file}.txt"
+7 if [! -f "${outputFile}" ]; then
+8 echo
+">>> output: $outputFile"
+9
+shortcuts run ExtractText --input-path "$file" --output-path "${file}.txt"
+10 fi
+11 done
+12
+"*webp" -o -iname "*
+•jpeg" \)
+-printo
+while IFS=
+read
+-p-d '
+extract.sh
++(7,1)
+Cut line
+ft: shell
+unix lutf-8
+Alt-g: bindings, Ctrl-g: help
+/Users/steve/projects/siri-text-extractor/example/Screenshot 2024-09-26 at 8.07.48 PM.png
